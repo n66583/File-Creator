@@ -11,7 +11,7 @@ and for view File Creator source or source code, [follow this link](https://gith
 2. now with run command 'del' and write in edit box, file deleted!
 3. GUI in version 1.1 is beter from version 1.0
 
-Please ask me bug of version 1.1 in:
+Please tell me bug of version 1.1 in:
   1. [Gmail](mailto:n66583@gmail.com)
   2. [Yahoo](mailto:hsadeqi66@gmail.com)
   3. [sadeqan.ir](mailto:info@sadeqan.ir)
