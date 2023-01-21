@@ -12,7 +12,7 @@ and for view File Creator source or source code, [follow this link](https://gith
 3. GUI in version 1.1 is beter from version 1.0
 
 Please tell me bug of version 1.1 in:
-  1. [Gmail](mailto:n66583@gmail.com)
+  1. [Gmail](mailto:nikparvar1387@gmail.com)
   2. [Yahoo](mailto:hsadeqi66@gmail.com)
   3. [sadeqan.ir](mailto:info@sadeqan.ir)
   4. [Telegram](https://t.me/hossain_sadeqi66)
