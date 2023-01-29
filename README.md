@@ -10,7 +10,7 @@ and for view File Creator source or source code, [follow this link](https://gith
 ### File Creator 1.2 is now avalable! in new version, this options is beter
 1. option delete in version 1.2 is beter from past version. in this option, program have some bug but these aren't important.
 
-## What is File Creator 1.1
+## What is in File Creator 1.1
 ### File Creator 1.1 is past of version 1.2! in this version, this options is beter from version 1.0
 1. in past, if created file is have Error, replace file and continue, now, edit the past file and continue
 2. now with run command 'del' and write in edit box, file deleted!
