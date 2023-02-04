@@ -9,6 +9,7 @@ and for view File Creator source or source code, [follow this link](https://gith
 ## Whats new in File Creator 1.2!
 ### File Creator 1.2 is now avalable! in new version, this options is beter
 1. option delete in version 1.2 is beter from past version. in this option, program have some bug but these aren't important.
+> in file creator box, enter 'del' with space and enter your file name to delete file
 
 ## What is in File Creator 1.1
 ### File Creator 1.1 is past of version 1.2! in this version, this options is beter from version 1.0
@@ -20,6 +21,7 @@ Please tell me bug of version 1.2 in:
   1. [Gmail](mailto:nikparvar1387@gmail.com)
   2. [Yahoo](mailto:hsadeqi66@gmail.com)
   3. [sadeqan.ir](mailto:info@sadeqan.ir)
+  4. [download-ha.ir](mailto:dhair@download-ha.ir)
   4. [Telegram](https://t.me/hossain_sadeqi66)
   5. [Gap](https://gap.im/hossain_sadeqi66)
   6. [Eitaa](https://eitaa.com/hossain_sadeqi66)
